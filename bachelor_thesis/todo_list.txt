@@ -1,0 +1,47 @@
+teeth 35 - 5
+landmark 35-5
+
+generate	mask	teeth
+			landmark ( gaussian point ) 
+
+
+teeth 
+	Mask-Rcnn 
+	yoloV3 
+	unet
+
+landmark 
+	Mask-Rcnn - suradnice
+	yoloV3 
+	unet
+
+
+App 
+	teeth - done
+	landmark 
+
+
+Pisanie 
+	kapitoly
+
+	Uvod
+
+	Umela inteligencia
+	deep learning
+	Neural Network 
+	CNN
+	Dataset
+		blender
+		Mask
+		Obrazky
+	Testovanie
+		dataset
+
+		App 	
+	Zaver
+
+	unet
+	mask - rcnn 
+	yolo
+	
+
